@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">The Void Asteroids</string>
     <string name="action_settings">Settings</string>
-    <string name="hello">Hey Ray!</string>
+    <string name="hello">Hello Ray!</string>
 </resources>
