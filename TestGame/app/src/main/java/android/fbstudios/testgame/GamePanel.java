@@ -8,6 +8,7 @@ import android.view.SurfaceView;
 
 public class GamePanel extends SurfaceView implements SurfaceHolder.Callback
 {
+    //
     private MainThread thread;
     public GamePanel(Context context)
     {
